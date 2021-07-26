@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "data": {
+    "menus": [
+      {
+        "code": "RES-BUSINESS",
+        "name": "业务管理",
+        "icon": "iconbusiness",
+        "url": "/businessManage",
+        "type": "MENU",
+        "childs": [
+          {
+            "code": "RES-BUSINESS-PROJECT",
+            "name": "项目中心",
+            "icon": null,
+            "url": "/businessManage/project",
+            "type": "MENU",
+            "childs": []
+          },
+          {
+            "code": "RES-BUSINESS-ORDER",
+            "name": "订单中心",
+            "icon": null,
+            "url": "/businessManage/order",
+            "type": "MENU",
+            "childs": []
+          }
+        ]
+      },
+      {
+        "code": "RES-DATA",
+        "name": "数据管理",
+        "icon": "icondata",
+        "url": "/dataManage",
+        "type": "MENU",
+        "childs": [
+          {
+            "code": "RES-DATA-TAGS",
+            "name": "标签中心",
+            "icon": null,
+            "url": "/dataManage/tags",
+            "type": "MENU",
+            "childs": []
+          }
+        ]
+      },
+      {
+        "code": "RES-RESOURCE",
+        "name": "资源管理",
+        "icon": "iconresource",
+        "url": "/resourceManage",
+        "type": "MENU",
+        "childs": [
+          {
+            "code": "RES-RESOURCE-COURSE",
+            "name": "课程",
+            "icon": null,
+            "url": "/resourceManage/course",
+            "type": "MENU",
+            "childs": []
+          },
+          {
+            "code": "RES-RESOURCE-INFORMATION",
+            "name": "资讯",
+            "icon": null,
+            "url": "/resourceManage/information",
+            "type": "MENU",
+            "childs": []
+          }
+        ]
+      }
+    ],
+    "user": {
+      "id": 1,
+      "account": "999999",
+      "photo": null,
+      "name": "惠每移健",
+      "alias": "平台管理",
+      "phone": "",
+      "email": "999999@qq.com",
+      "token": "63912a0dfe698d19b53ce81c06d6fb2a"
+    },
+    "projects": null,
+    "config": null
+  },
+  "message": "请求成功"
+}

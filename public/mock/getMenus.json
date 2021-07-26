@@ -1,0 +1,104 @@
+{
+  "code": "0",
+  "rows": [
+    {
+      "code": "data-001",
+      "name": "数据中心",
+      "icon": "icon-01",
+      "url": "",
+      "children": [
+        {
+          "code": "data-001-0001",
+          "name": "数据中心01",
+          "icon": "icon-01-001",
+          "url": "/data",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "project-001",
+      "name": "项目中心",
+      "icon": "icon-02",
+      "url": "",
+      "children": [
+        {
+          "code": "project-001-0001",
+          "name": "项目中心01",
+          "icon": "icon-02-001",
+          "url": "/project",
+          "children": [
+            {
+              "code": "00-01",
+              "name": "项目代办2-1",
+              "icon": "icon-java",
+              "url": "/content2-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "design-001",
+      "name": "设计中心",
+      "icon": "icon-03",
+      "url": "",
+      "children": [
+        {
+          "code": "design-001-0001",
+          "name": "设计中心01",
+          "icon": "icon-03-001",
+          "url": "/design",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "config-001",
+      "name": "配置中心",
+      "icon": "icon-04",
+      "url": "",
+      "children": [
+        {
+          "code": "config-001-0001",
+          "name": "配置中心01",
+          "icon": "icon-04-001",
+          "url": "/config",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "balance-001",
+      "name": "结算中心",
+      "icon": "icon-05",
+      "url": "",
+      "children": [
+        {
+          "code": "balance-001-0001",
+          "name": "结算中心01",
+          "icon": "icon-05-001",
+          "url": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "plat-001",
+      "name": "平台管理",
+      "icon": "icon-06",
+      "url": "",
+      "children": [
+        {
+          "code": "plat-001-0001",
+          "name": "平台管理01",
+          "icon": "icon-06-001",
+          "url": "/plat",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
+

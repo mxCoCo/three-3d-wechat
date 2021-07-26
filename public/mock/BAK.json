@@ -1,0 +1,148 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "title": "数据中心",
+      "icon": "ic",
+      "key": "1",
+      "children": [
+        {
+          "title": "项目代办",
+          "icon": "ic",
+          "key": "1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "项目中心",
+      "icon": "ic",
+      "key": "2",
+      "children": [
+        {
+          "title": "项目代办",
+          "icon": "ic",
+          "key": "1",
+          "children": [
+            {
+              "title": "项目代办1",
+              "icon": "ic",
+              "key": "0-0",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "数据核查",
+          "icon": "ic",
+          "key": "2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "设计中心",
+      "icon": "ic",
+      "key": "3",
+      "children": [
+        {
+          "title": "项目代办",
+          "icon": "ic",
+          "key": "1",
+          "children": [
+            {
+              "title": "项目代办1",
+              "icon": "ic",
+              "key": "0-0",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "数据核查",
+          "icon": "ic",
+          "key": "2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "配置中心",
+      "icon": "ic",
+      "key": "4",
+      "children": [
+        {
+          "title": "项目代办",
+          "icon": "ic",
+          "key": "1",
+          "children": [
+            {
+              "title": "项目代办1",
+              "icon": "ic",
+              "key": "0-0",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "数据核查",
+          "icon": "ic",
+          "key": "2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "结算中心",
+      "icon": "ic",
+      "key": "5",
+      "children": [
+        {
+          "title": "项目代办",
+          "icon": "ic",
+          "key": "1",
+          "children": [
+            {
+              "title": "项目代办1",
+              "icon": "ic",
+              "key": "0-0",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "数据核查",
+          "icon": "ic",
+          "key": "2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "平台管理",
+      "icon": "ic",
+      "key": "6",
+      "children": [
+        {
+          "title": "项目代办",
+          "icon": "ic",
+          "key": "1",
+          "children": [
+            {
+              "title": "项目代办1",
+              "icon": "ic",
+              "key": "0-0",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "数据核查",
+          "icon": "ic",
+          "key": "2",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

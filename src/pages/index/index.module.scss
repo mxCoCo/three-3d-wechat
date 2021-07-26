@@ -1,0 +1,43 @@
+.indexPage {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  & .inputWrap {
+    padding-top: 200px;
+    margin-left: 30px;
+    margin-right: 30px;
+    & .input_div {
+      padding: 10px 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      label {
+        font-size: 20px;
+      }
+      input {
+        height: 30px;
+        border: 1px solid #108ee9;
+        background:none;  
+        outline:none;  
+        font-size: 22px;
+        padding-left: 5px;
+        &::placeholder {
+          color: #bfbfbf;
+          font-size: 16px;
+        }
+      }
+    }
+    & .load_btn {
+      margin-top: 20px;
+      & .btn {
+        background-color: #ffffff;
+        text-align: center;
+        color: #6287EC;
+        font-size: 16px;
+        line-height: 47px;
+        font-weight: 500;
+
+      }
+    }
+  }
+}

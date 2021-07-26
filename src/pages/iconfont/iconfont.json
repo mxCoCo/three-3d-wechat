@@ -1,0 +1,51 @@
+{
+  "id": "2534675",
+  "name": "wechat-3d",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16765491",
+      "name": "全局效果重置",
+      "font_class": "quanjuxiaoguozhongzhi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18822907",
+      "name": "重置_icon",
+      "font_class": "zhongzhi_icon",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "19739543",
+      "name": "换个背景",
+      "font_class": "ziyuan23",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "14942250",
+      "name": "眼睛关闭",
+      "font_class": "yanjingguanbi1",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "14942252",
+      "name": "眼睛打开",
+      "font_class": "yanjingdakai",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1247401",
+      "name": "向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    }
+  ]
+}

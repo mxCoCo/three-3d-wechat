@@ -1,0 +1,36 @@
+/*{
+      "title": "糖尿病领域创新项目",
+      "icon": "ic",
+      "key": "0-0",
+      "children": []
+    },
+    {
+      "title": "侵袭性真菌感染病",
+      "key": "0-1",
+      "icon": "ic",
+      "children": []
+    },
+    {
+      "title": "冠心病二级预防关爱行动",
+      "key": "0-2",
+      "icon": "ic",
+      "children": []
+    },
+    {
+      "title": "全身和或局部细菌感染",
+      "key": "0-3",
+      "icon": "ic",
+      "children": []
+    },
+    {
+      "title": "急性缺血性脑卒中RWS系统",
+      "key": "0-4",
+      "icon": "ic",
+      "children": []
+    },
+    {
+      "title": "测试醒目",
+      "key": "0-5",
+      "icon": "ic",
+      "children": []
+    }*/

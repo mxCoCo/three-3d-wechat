@@ -1,0 +1,135 @@
+.login {
+  width: 100%;
+  height: 100%;
+  background-color: #6287EC;
+  position: relative;
+
+  & .form_content {
+    position: relative;
+    z-index: 99;
+    padding-bottom: 6px;
+
+    & .inputWrap {
+      position: relative;
+      background: rgba(247, 247, 247, 100);
+      display: flex;
+      align-items: center;
+      padding: 0 10px;
+      margin-bottom: 4px;
+      height: 40px;
+      box-sizing: border-box;
+      border-radius: 6px;
+      margin-bottom: 20px;
+      margin-left: 30px;
+      margin-right: 30px;
+
+      & span {
+        height: 16px;
+        width: 16px;
+        margin-right: 12px;
+        margin-left: 10px;
+        color: #C8CEDC;
+
+        & svg {
+          height: 16px;
+          width: 16px;
+        }
+      }
+
+      img {
+        width: 16px;
+        height: 16px;
+        margin-right: 12px;
+        margin-left: 10px;
+      }
+
+      & .inputContent {
+        flex: 1;
+        color: #C8CEDC;
+        font-size: 14px;
+
+        & > input {
+          padding: 0;
+          background-color: rgba(0, 0, 0, 0);
+          background-image: none;
+          border: 0;
+          outline: 0;
+          width: 100%;
+          height: 30px;
+          line-height: 30px;
+          text-align: left;
+
+          &:focus::-webkit-input-placeholder {
+            color: #C8CEDC;
+          }
+
+          &:focus:-moz-placeholder {
+            color: #C8CEDC;
+          }
+
+          &:focus:-ms-input-placeholder {
+            color: #C8CEDC;
+          }
+
+          &::-webkit-input-placeholder {
+            text-align: left;
+            color: #C8CEDC
+          }
+
+          &::-moz-placeholder {
+            text-align: left;
+            color: #C8CEDC
+          }
+
+          &::-ms-input-placeholder {
+            text-align: left;
+            color: #C8CEDC
+          }
+        }
+      }
+    }
+
+    & .rememberPwd {
+      font-size: 14px;
+      color: #ffffff;
+      margin-right: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+
+      & input {
+        width: 15px;
+        height: 15px;
+      }
+    }
+
+    & .login_btn {
+      margin-left: 30px;
+      margin-right: 30px;
+      margin-top: 40px;
+
+      & .btn {
+        background-color: #ffffff;
+        border-radius: 26px;
+        text-align: center;
+        color: #6287EC;
+        font-size: 17px;
+        line-height: 47px;
+        font-weight: 500;
+
+      }
+    }
+  }
+
+  & .bg_content {
+    width: 100%;
+    height: calc(100vh - 460px);
+    position: relative;
+    bottom: 0;
+    background-image: url(../../static/images/login_bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+  }
+
+}
